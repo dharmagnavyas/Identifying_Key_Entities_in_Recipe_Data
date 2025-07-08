@@ -102,7 +102,7 @@ The model shows excellent performance with minimal confusion between classes:
 - Root cause: Ambiguous measurement terms in different contexts
 - Impact: Minimal effect on overall system performance
 
-## 🛠️ Development
+## Development
 
 ### Training the Model
 
